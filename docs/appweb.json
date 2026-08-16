@@ -1,0 +1,19 @@
+{
+  "app_name": "Talk with the Bible",
+  "privacy_policy_url": "https://talkwithbible-web.vercel.app/privacy",
+  "support_url": "https://talkwithbible-web.vercel.app/support",
+  "marketing_url": "https://talkwithbible-web.vercel.app/",
+  "terms_url": "https://talkwithbible-web.vercel.app/terms",
+  "data_privacy_summary": {
+    "collects_data": false,
+    "data_categories": [],
+    "purposes": [],
+    "linked_to_user": false,
+    "used_for_tracking": false,
+    "third_parties": []
+  },
+  "verified_200_ok": ["2026-08-16T19:00:00Z"],
+  "repo": "https://github.com/mitre88/talkwithbible-web",
+  "deployment_id": "3ing1FXgnhqC59JDfjMQv5ALbhZr",
+  "contact_email": "vamosmexico2018.ahm@gmail.com"
+}
