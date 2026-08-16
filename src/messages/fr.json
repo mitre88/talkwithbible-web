@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "title": "Parler avec la Bible — Compagnon privé d’Écriture",
+    "description": "Interrogez l’Écriture en privé. Apple Intelligence, sur l’iPhone, cite la King James. Sans compte. Sans nuage. Sans publicité.",
+    "ogAlt": "Parler avec la Bible — compagnon King James privé, sur l’appareil"
+  },
+  "a11y": {
+    "toggleTheme": "Basculer entre le thème clair et le thème sombre",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "phoneFrame": "iPhone affichant Parler avec la Bible"
+  },
+  "nav": {
+    "features": "Fonctions",
+    "privacy": "Confidentialité",
+    "howItWorks": "Fonctionnement",
+    "support": "Assistance",
+    "download": "Télécharger"
+  },
+  "hero": {
+    "badge": "Sur votre iPhone · Rien ne quitte l’appareil",
+    "title": "Une conversation privée",
+    "titleAccent": "avec l’Écriture",
+    "subtitle": "Posez une question biblique. L’app interroge un corpus King James local et répond avec des citations. Sans compte. Sans nuage. Sans publicité.",
+    "badgeLabel": "Télécharger dans",
+    "secondary": "Voir le fonctionnement",
+    "trust": {
+      "noAccount": "Sans compte",
+      "onDevice": "Apple Intelligence sur l’appareil",
+      "kjv": "King James, citée"
+    }
+  },
+  "features": {
+    "eyebrow": "Faite pour l’étude, pas pour le spectacle",
+    "title": "Demandez. Recevez une citation. Restez sur la page.",
+    "subtitle": "Un compagnon calme pour l’Ancien et le Nouveau Testament — rien de plus, et rien qui doive vivre sur un serveur.",
+    "cite": {
+      "title": "Chaque réponse cite un verset",
+      "desc": "Les réponses viennent d’un corpus King James local. Touchez la citation et lisez le verset dans le texte que nous livrons vraiment."
+    },
+    "local": {
+      "title": "Les conversations restent sur cet iPhone",
+      "desc": "L’historique vit dans un magasin privé de l’appareil. Reprenez un fil, ou supprimez-le. Nous ne le voyons jamais."
+    },
+    "scope": {
+      "title": "Soixante-six livres. C’est le canon.",
+      "desc": "Ancien et Nouveau Testament seulement. Les questions hors sujet sont refusées. Le compagnon ne parlera pas comme Dieu, Jésus ou un prophète."
+    },
+    "reminders": {
+      "title": "Verset facultatif le matin et le soir",
+      "desc": "Rappels locaux à 7 h et 19 h si vous le souhaitez. Ils ne quittent pas le téléphone et s’éteignent d’un interrupteur."
+    }
+  },
+  "how": {
+    "eyebrow": "Trois étapes",
+    "title": "Demandez à la Parole",
+    "subtitle": "L’app est une aide à l’étude. Vérifiez chaque citation dans une King James imprimée.",
+    "steps": {
+      "0": {
+        "title": "Posez une question",
+        "desc": "Écrivez une vraie question biblique, ou choisissez un chemin dans le canon."
+      },
+      "1": {
+        "title": "Recevez une réponse citée",
+        "desc": "Apple Intelligence répond à partir du texte King James local et nomme le verset."
+      },
+      "2": {
+        "title": "Ouvrez le verset",
+        "desc": "Touchez le sceau et lisez le libellé que nous avons inclus — pas une paraphrase venue du nuage."
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Pourquoi ce compagnon",
+    "title": "Faite pour rester petite et honnête",
+    "subtitle": "La plupart des apps de conversation biblique envoient vos questions à un serveur et demandent un abonnement. Nous ne faisons ni l’un ni l’autre.",
+    "points": {
+      "private": {
+        "title": "Privée par construction",
+        "desc": "Il n’y a pas de backend auquel se fier. Le texte King James et vos fils vivent sur l’iPhone."
+      },
+      "cited": {
+        "title": "Citée, non inventée",
+        "desc": "Le travail est de chercher et de citer, pas d’occuper une chaire. Un verset faux est un défaut que nous prenons au sérieux."
+      },
+      "free": {
+        "title": "Gratuite. Sans achats.",
+        "desc": "Sans compte, sans publicité, sans achats intégrés. Le texte est la King James du domaine public."
+      },
+      "quiet": {
+        "title": "Lumen reste discret",
+        "desc": "Lumen est une petite colombe voxel — une illustration de marque, pas une photographie, et pas un substitut au Saint-Esprit."
+      }
+    }
+  },
+  "privacy": {
+    "eyebrow": "La confidentialité est le produit",
+    "title": "Vos questions ne quittent pas cet iPhone",
+    "subtitle": "Nous ne collectons aucune donnée personnelle. Pas de kit d’analyse, pas de compte, pas de serveur de conversation à nous.",
+    "points": {
+      "device": {
+        "title": "Mémoire sur l’appareil",
+        "desc": "Les conversations restent dans le stockage local. Supprimez un fil et il disparaît du seul endroit où il a existé."
+      },
+      "intelligence": {
+        "title": "Apple Intelligence, sur l’appareil",
+        "desc": "Les réponses passent par les modèles Apple sur l’iPhone. Nous n’exploitons pas un nuage qui lirait vos questions."
+      },
+      "notify": {
+        "title": "Rappels locaux seulement",
+        "desc": "Les rappels de verset sont planifiés sur le téléphone. Nous n’envoyons pas de notifications push distantes."
+      }
+    }
+  },
+  "cta": {
+    "title": "Demandez en privé. Laissez l’Écriture répondre.",
+    "subtitle": "Parler avec la Bible est gratuit. C’est un compagnon d’étude, pas une église.",
+    "note": "Nécessite un iPhone compatible avec Apple Intelligence."
+  },
+  "footer": {
+    "tagline": "Un compagnon King James privé pour iPhone.",
+    "legalHeading": "Mentions",
+    "privacy": "Confidentialité",
+    "support": "Assistance",
+    "terms": "Conditions",
+    "rights": "Tous droits réservés.",
+    "madeWith": "Lumen est une illustration."
+  },
+  "legalCommon": {
+    "backHome": "Retour au produit",
+    "lastUpdated": "Dernière mise à jour"
+  },
+  "privacyPage": {
+    "title": "Politique de confidentialité",
+    "updated": "16 août 2026",
+    "intro": "Nous avons conçu Parler avec la Bible pour qu’une question privée sur l’Écriture n’ait jamais à quitter votre iPhone. Cette page dit précisément ce que l’app fait — et ce qu’elle ne fait pas.",
+    "sections": [
+      {
+        "heading": "Ce que nous collectons",
+        "body": [
+          "Nous ne collectons aucune donnée personnelle. Il n’y a pas de compte, pas de profil, pas de connexion par e-mail et pas d’identifiant qui relierait vos questions à nous.",
+          "Les conversations, les réglages et les préférences facultatives de rappel restent sur l’appareil. Si vous supprimez une conversation, elle est retirée du stockage local. Nous n’en recevons jamais de copie."
+        ]
+      },
+      {
+        "heading": "Comment l’app utilise ce qui reste sur l’appareil",
+        "body": [
+          "L’historique existe pour que vous puissiez reprendre un fil. La langue et les interrupteurs de rappel existent pour que l’app se souvienne de l’état où vous l’avez laissée. C’est tout.",
+          "Le texte King James est inclus dans l’app. Consulter un verset n’appelle pas nos serveurs, parce que nous n’en exploitons aucun."
+        ]
+      },
+      {
+        "heading": "Apple Intelligence",
+        "body": [
+          "Les réponses sont produites par Apple Intelligence / Foundation Models sur l’appareil. Lorsque Apple ne peut pas exécuter le modèle localement, Apple peut utiliser Private Cloud Compute selon ses propres conditions. Nous n’exploitons pas de backend de conversation et nous ne recevons pas ces questions.",
+          "Si Apple Intelligence n’est pas disponible, l’app le dit. Elle ne bascule pas en silence vers un modèle tiers."
+        ]
+      },
+      {
+        "heading": "Notifications",
+        "body": [
+          "Les rappels facultatifs de verset du matin et du soir sont des notifications locales planifiées sur l’iPhone. Ils s’éteignent dans Réglages. Nous n’envoyons pas de notifications push distantes et nous n’avons pas de jeton push pour votre appareil."
+        ]
+      },
+      {
+        "heading": "Tiers et analyse",
+        "list": [
+          "Aucun kit d’analyse",
+          "Aucun kit publicitaire",
+          "Aucun fournisseur de rapports de plantage",
+          "Aucun compte, conteneur CloudKit ou backend propriétaire",
+          "Uniquement les cadres système d’Apple (y compris UserDefaults pour les réglages, et Apple Intelligence lorsque vous posez une question)"
+        ]
+      },
+      {
+        "heading": "Le texte de l’Écriture",
+        "body": [
+          "L’app livre la King James Version, du domaine public aux États-Unis. Les notes du traducteur entre accolades ont été retirées ; le libellé n’a pas été modernisé. Nous ne concédons ni ne transmettons une traduction moderne protégée."
+        ]
+      },
+      {
+        "heading": "Vos droits",
+        "body": [
+          "Comme nous ne détenons pas vos données, il n’y a rien de notre côté à exporter ou à effacer. Sur l’iPhone, vous pouvez supprimer des conversations ou retirer l’app, ce qui efface le magasin local.",
+          "Si vous pensez que cette politique se trompe sur un comportement précis, écrivez-nous. Nous regarderons la version et répondrons clairement."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Questions de confidentialité : vamosmexico2018.ahm@gmail.com. Nous visons une réponse sous 48 heures."
+        ]
+      }
+    ]
+  },
+  "supportPage": {
+    "title": "Assistance",
+    "updated": "16 août 2026",
+    "intro": "Besoin d’aide avec Parler avec la Bible ? Écrivez à vamosmexico2018.ahm@gmail.com. Nous lisons chaque message et visons une réponse sous 48 heures.",
+    "headingNeed": "Besoin d’aide ?",
+    "needBody": "Indiquez le modèle d’iPhone, la version d’iOS et ce que vous attendiez. Si une citation vous a paru fausse, joignez la question et le verset nommé par l’app.",
+    "headingFaq": "Questions fréquentes",
+    "headingIssues": "Limites connues",
+    "issues": [
+      "Les réponses exigent un iPhone compatible avec Apple Intelligence, et la fonction activée.",
+      "Les versets cités restent en anglais King James, même si l’interface est en français ou en espagnol.",
+      "Le compagnon ne jouera pas le rôle de Dieu, de Jésus ou d’un prophète. C’est une ligne, pas un réglage manquant."
+    ],
+    "headingFeedback": "Retour",
+    "feedback": "Nous gardons l’app petite exprès. Si un ton, une citation ou un rappel vous a paru faux, la même adresse est le bon endroit.",
+    "faqs": [
+      {
+        "q": "Cela fonctionne-t-il sans réseau ?",
+        "a": "Oui. Après l’installation, le corpus King James et vos conversations restent sur l’iPhone. Aucun réseau n’est requis pour demander ou lire une citation."
+      },
+      {
+        "q": "Quelle traduction livrez-vous ?",
+        "a": "La King James Version, du domaine public aux États-Unis. Nous ne livrons ni NIV, ni Reina Valera, ni Louis Segond, ni aucun texte moderne sous licence."
+      },
+      {
+        "q": "Pourquoi les versets restent-ils en anglais en français ?",
+        "a": "L’interface peut suivre ces langues. Le texte cité reste la King James que nous avons le droit d’inclure. Nous ne mettrons pas une autre traduction sur l’appareil sans licence."
+      },
+      {
+        "q": "Est-ce Dieu qui parle ?",
+        "a": "Non. Parler avec la Bible est une aide à l’étude. Vérifiez chaque citation dans une Bible imprimée. La persona ne prendra pas le nom de Dieu, de Jésus ou d’un prophète."
+      },
+      {
+        "q": "Qui est Lumen ?",
+        "a": "Lumen est une petite colombe voxel dessinée comme illustration de marque. Ce n’est pas une photographie et ce n’est pas une affirmation théologique."
+      },
+      {
+        "q": "Comment désactiver les rappels ?",
+        "a": "Ouvrez Réglages dans l’app et désactivez les rappels quotidiens de verset. Ils sont locaux. Les éteindre les arrête sur cet iPhone."
+      }
+    ]
+  },
+  "termsPage": {
+    "title": "Conditions d’utilisation",
+    "updated": "16 août 2026",
+    "intro": "Ces conditions sont courtes exprès. Parler avec la Bible est un compagnon d’étude gratuit pour iPhone. En utilisant l’app, vous acceptez ce qui suit.",
+    "sections": [
+      {
+        "heading": "L’app",
+        "body": [
+          "Parler avec la Bible vous aide à poser des questions sur l’Ancien et le Nouveau Testament et à recevoir des versets King James cités. C’est une aide à l’étude, pas un conseil pastoral, pas une église, et pas un substitut à une Bible imprimée ou à un pasteur."
+        ]
+      },
+      {
+        "heading": "Usage acceptable",
+        "body": [
+          "Utilisez l’app pour l’étude privée. Ne l’utilisez pas pour présenter des réponses de machine comme une parole divine, comme l’enseignement officiel d’une église, ou comme un avis juridique, médical ou professionnel.",
+          "N’essayez pas de casser, extraire ou inverser le texte inclus pour un corpus commercial concurrent d’une manière qui en fausse la source."
+        ]
+      },
+      {
+        "heading": "Le texte",
+        "body": [
+          "La King James Version que nous livrons est du domaine public aux États-Unis. Le libellé n’a pas été modernisé. Les traductions de l’interface ne changent pas la langue des versets cités."
+        ]
+      },
+      {
+        "heading": "Propriété intellectuelle",
+        "body": [
+          "Le nom de l’app, l’illustration de Lumen et le dessin du produit nous appartiennent. Vous ne pouvez pas copier le site ou la marque de l’app pour laisser croire que nous avons publié un autre ouvrage."
+        ]
+      },
+      {
+        "heading": "Absence de garantie",
+        "body": [
+          "L’app est fournie en l’état. Les citations peuvent être fausses. Vérifiez toujours une King James imprimée. Nous ne sommes pas responsables des décisions prises à partir d’une réponse, d’un rappel manqué ou d’un modèle indisponible sur votre appareil."
+        ]
+      },
+      {
+        "heading": "Limitation de responsabilité",
+        "body": [
+          "Dans la mesure permise par la loi, notre responsabilité pour toute réclamation relative à l’app est limitée au montant que vous nous avez payé pour elle — c’est-à-dire rien, car l’app est gratuite et n’a pas d’achats intégrés."
+        ]
+      },
+      {
+        "heading": "Juridiction",
+        "body": [
+          "Ces conditions sont régies par les lois du Mexique. Les tribunaux du Mexique ont compétence exclusive, sauf lorsque le droit de la consommation de votre pays en dispose autrement."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Questions sur ces conditions : vamosmexico2018.ahm@gmail.com."
+        ]
+      }
+    ]
+  }
+}
